@@ -5,7 +5,4 @@ attr_reader :type, :sugar
     @type = type
     @sugar = sugar
   end
-
-
-
 end
